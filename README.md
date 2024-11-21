@@ -4,6 +4,7 @@
 - 📫 How to reach me: i dunno
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know coding is FUN
+  i probably should woprk on this more but im lazy
 
 <!---
 tacticalarms1/tacticalarms1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
